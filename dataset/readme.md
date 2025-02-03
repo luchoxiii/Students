@@ -6,3 +6,5 @@ Datasets:
     - Intermoda
     - Datathon de Galicia Seguros
     - Nuwe
+- Titanic
+- Zomato
