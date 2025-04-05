@@ -8,3 +8,4 @@ Datasets:
     - Nuwe
 - Titanic
 - Zomato
+- Sonar Dataset: Es un dataset, de un submarino donde tienes distintas variables que son la del radar, y la final es si el submarino puede indentificar una mina o una roca.
