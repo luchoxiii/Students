@@ -1,17 +1,71 @@
-# Data Science Projects Repository
+# 📊 Students — Repositorio de Proyectos de Ciencia de Datos
 
-## 🇪🇸 Español
-Hola,  
-En esta carpeta del repositorio se encuentran diversos proyectos de ciencia de datos. Algunos fueron desarrollados por mí hace algunos años, otros son ejemplos didácticos para estudiantes, y también hay trabajos personales realizados por ellos.  
-Cada proyecto está organizado en su propia carpeta, la cual contiene el dataset correspondiente y lleva un nombre identificador.
+🌍 **Idiomas**  
+[Español](README.md) | [English](README.en.md) | [Français](README.fr.md) | [Português](README.pt.md)
 
-## 🇬🇧 English
-Hello,  
-This folder in the repository contains various data science projects. Some were developed by me several years ago, others are educational examples for students, and there are also personal projects created by them.  
-Each project is organized in its own folder, which includes the corresponding dataset and is identified by a specific name.
+Este repositorio contiene **proyectos de ciencia de datos** organizados principalmente en **notebooks de Jupyter**. Incluye trabajos realizados por estudiantes y ejemplos prácticos con fines educativos, enfocados en análisis de datos, machine learning y procesamiento de lenguaje natural.
 
-## 🇫🇷 Français
-Bonjour,  
-Ce dossier du dépôt contient divers projets en science des données. Certains ont été développés par moi il y a quelques années, d’autres sont des exemples pédagogiques destinés aux étudiants, et il y a également des projets personnels réalisés par eux.  
-Chaque projet est organisé dans son propre dossier, qui contient le jeu de données correspondant et porte un nom distinctif.
+---
+
+## 📂 Estructura del repositorio
+
+El repositorio se organiza de la siguiente manera:
+
+- 📒 **Notebooks** con el análisis, visualizaciones y modelos.
+- 🗂️ **Datasets** utilizados en los proyectos.
+- 📄 Archivos de apoyo y documentación básica.
+
+---
+
+## 🗃️ Datasets
+
+Los datasets utilizados en los distintos proyectos se encuentran dentro del repositorio y pueden variar según el notebook.  
+Incluyen datos relacionados con:
+
+- Texto (sentimiento, emociones, fake news).
+- Salud (predicción de enfermedades).
+- Datos clásicos para clasificación y predicción.
+- Otros conjuntos de datos educativos.
+
+> ⚠️ Los datasets se usan únicamente con fines **educativos y de práctica**.
+
+---
+
+## 🌍 Idiomas
+
+Los proyectos del repositorio están desarrollados en los siguientes idiomas:
+
+- 🇪🇸 **Español** (principalmente)
+- 🇬🇧 **Inglés** (algunos notebooks y datasets)
+
+El idioma depende del origen del dataset o del objetivo del ejercicio.
+
+---
+
+## 📊 Proyectos incluidos (ejemplos)
+
+| Notebook | Descripción |
+|--------|-------------|
+| `Analisis de FakeNews.ipynb` | Análisis y detección de noticias falsas. |
+| `Analisis de Sentimiento2.ipynb` | Clasificación de sentimiento en texto. |
+| `Clasificacion_Emociones.ipynb` | Identificación de emociones usando NLP. |
+| `Prediccion de Diabetes.ipynb` | Modelo predictivo para diagnóstico de diabetes. |
+| `Titanic_pipeline.ipynb` | Pipeline completo de machine learning con el dataset Titanic. |
+
+---
+
+## 🚀 Cómo usar el repositorio
+
+Cloná el repositorio:
+
+```bash
+git clone https://github.com/luchoxiii/Students.git
+cd Students
+```
+
+---
+
+## Material extra:
+
+[APis Publicas]()
 
