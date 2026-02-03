@@ -46,3 +46,8 @@ Depending on the dataset or project objective.
 git clone https://github.com/luchoxiii/Students.git
 cd Students
 jupyter notebook
+```
+---
+## Material Extra
+
+[Public APIs](https://github.com/marcelscruz/public-apis)
