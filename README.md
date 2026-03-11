@@ -68,4 +68,5 @@ cd Students
 ## Material extra:
 
 [APis Publicas](https://github.com/marcelscruz/public-apis)
+[Costos de APIs IA](https://inworld.ai/models)
 
