@@ -65,6 +65,13 @@ cd Students
 
 ---
 
+## Cursos importaste de Nvidia:
+
+- [Tu primera Red Neuronal](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+T-FX-01+V1)
+- [Agentes con LLMs](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-16+V1)
+- [Ciencia de Datos Acelerada](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+T-DS-03+V1)
+- [IA Generativa sin humor](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-07+V1)
+
 ## Material extra:
 
 - [APis Publicas](https://github.com/marcelscruz/public-apis)
