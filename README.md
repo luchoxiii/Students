@@ -82,6 +82,8 @@ cd Students
 
 ### Ingles
 
+- [Entrevistas Tecnicas](https://www.youtube.com/@tryexponent/videos)
+- [Entrevistas Tecnicas de Data](https://www.youtube.com/@DataInterview)
 
 ---
 
