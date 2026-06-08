@@ -92,3 +92,5 @@ cd Students
 - [APis Publicas](https://github.com/marcelscruz/public-apis)
 - [Costos de APIs IA](https://inworld.ai/models)
 - [IAs compatibles con la PC](https://www.canirun.ai/)
+- [Observar Embendding](https://projector.tensorflow.org/)
+- [Visualizacion de Modelos](https://netron.app/)
