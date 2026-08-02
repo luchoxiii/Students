@@ -95,3 +95,4 @@ cd Students
 - [Observar Embendding](https://projector.tensorflow.org/)
 - [Visualizacion de Modelos](https://netron.app/)
 - [Python Univerisidad de Helsinki](https://programming-25.mooc.fi/)
+- [Herramienta de diseño Stich](https://stitch.withgoogle.com/) 
