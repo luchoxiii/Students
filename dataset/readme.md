@@ -23,3 +23,4 @@ Cada dataset puede ser utilizado de forma independiente según el notebook o pro
 Algunos de los datasets incluidos en este directorio provienen de fuentes públicas y repositorios:
 
 - [Licitaciones de España](https://github.com/BquantFinance/licitaciones-espana)
+- [Dataset Climas Arg](https://redesclimaticas.com/)
