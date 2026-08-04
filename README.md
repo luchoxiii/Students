@@ -65,6 +65,14 @@ cd Students
 
 ---
 
+## Repositorios Importantes o de Interes:
+
+- [Deep Learning](https://github.com/luchoxiii/Deep-Learning)
+- [Data Engineering](https://github.com/luchoxiii/Data-Engineering)
+
+
+---
+
 ## Cursos importaste de Nvidia:
 
 - [Tu primera Red Neuronal](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+T-FX-01+V1)
@@ -73,12 +81,13 @@ cd Students
 - [IA Generativa sin humor](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-07+V1)
 
 ---
+
 ## Canales de Youtube
 
 ### Español
 
 - [3D one Brown](https://www.youtube.com/@3blue1brownespanol/featured)
-
+- [Google Cloud con Eduardo](https://www.youtube.com/@EduardoMartinezAgrelo)
 
 ### Ingles
 
