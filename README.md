@@ -93,6 +93,7 @@ cd Students
 
 - [Entrevistas Tecnicas](https://www.youtube.com/@tryexponent/videos)
 - [Entrevistas Tecnicas de Data](https://www.youtube.com/@DataInterview)
+- [Aprender LLMs & Transformers by Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy)
 
 ---
 
