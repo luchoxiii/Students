@@ -96,6 +96,19 @@ cd Students
 - [Aprender LLMs & Transformers by Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy)
 
 ---
+### Divulgadores Ingles
+
+- [The AI Advantage](https://www.youtube.com/@aiadvantage/featured)
+- [Matt Wolfe](https://www.youtube.com/@mreflow)
+- [Dan Martell](https://www.youtube.com/@danmartell)
+- [Liam Oteil](https://www.youtube.com/@LiamOttley)
+- [Jeff Su](https://www.youtube.com/@JeffSu)
+- [Ben IA](https://www.youtube.com/@BenAI92)
+- [Sabrina Ramonov](https://www.youtube.com/@sabrina_ramonov)
+
+
+
+---
 
 ## Material extra:
 
