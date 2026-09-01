@@ -88,6 +88,7 @@ cd Students
 
 - [3D one Brown](https://www.youtube.com/@3blue1brownespanol/featured)
 - [Google Cloud con Eduardo](https://www.youtube.com/@EduardoMartinezAgrelo)
+- [Seguridad de IA](https://www.youtube.com/@seguridad-de-la-ia/videos)
 
 ### Ingles
 
@@ -120,3 +121,4 @@ cd Students
 - [Python Univerisidad de Helsinki](https://programming-25.mooc.fi/)
 - [Herramienta de diseño Stitch](https://stitch.withgoogle.com/)
 - [Visualizacion Transformers](https://poloclub.github.io/transformer-explainer/)
+- [Bluedot IA Safety](https://bluedot.org/)
