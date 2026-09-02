@@ -89,6 +89,7 @@ cd Students
 - [3D one Brown](https://www.youtube.com/@3blue1brownespanol/featured)
 - [Google Cloud con Eduardo](https://www.youtube.com/@EduardoMartinezAgrelo)
 - [Seguridad de IA](https://www.youtube.com/@seguridad-de-la-ia/videos)
+- [Universidad Pontifica de Valencia](https://www.youtube.com/@UPV/videos)
 
 ### Ingles
 
