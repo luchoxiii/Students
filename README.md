@@ -90,6 +90,7 @@ cd Students
 - [Google Cloud con Eduardo](https://www.youtube.com/@EduardoMartinezAgrelo)
 - [Seguridad de IA](https://www.youtube.com/@seguridad-de-la-ia/videos)
 - [Universidad Pontifica de Valencia](https://www.youtube.com/@UPV/videos)
+- [Organizacion de los Datos UBA](https://www.youtube.com/@OrganizaciondeDatos/videos)
 
 ### Ingles
 
