@@ -124,3 +124,7 @@ cd Students
 - [Herramienta de diseño Stitch](https://stitch.withgoogle.com/)
 - [Visualizacion Transformers](https://poloclub.github.io/transformer-explainer/)
 - [Bluedot IA Safety](https://bluedot.org/)
+- [Diseño de ML Systems](https://github.com/chiphuyen/dmls-book)
+- [ML with Keras & Tensorflow](https://github.com/ageron/handson-ml3)
+- [LLM Engenieer](https://github.com/PacktPublishing/LLM-Engineers-Handbook)
+- [Diseñando Sistemas MultiAgentes](https://multiagentbook.com/)
